@@ -1,0 +1,7 @@
+build/
+m5out/
+__pycache__/
+*.pyc
+*.elf
+*.o
+results/
